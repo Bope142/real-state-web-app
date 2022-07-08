@@ -2229,7 +2229,7 @@ body {
   }
   .container__newsletter .form__container form input,
 .container__newsletter .form__container form .btn {
-    width: 100%;
+    align-self: stretch;
   }
 }
 @media only screen and (max-width: 700px) {
