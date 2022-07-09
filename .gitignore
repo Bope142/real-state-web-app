@@ -4,3 +4,6 @@
 *.scss.map
 images/*.svg
 css/sass/*
+node_modules
+*.json
+js/scrollreveal.min.js

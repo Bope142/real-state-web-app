@@ -20,4 +20,5 @@ window.addEventListener('load', () => {
     forEach(r => {
         observer.observe(r)
     });
+    console.log('jjj')
 })
